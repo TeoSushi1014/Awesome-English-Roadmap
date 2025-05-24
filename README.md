@@ -106,7 +106,8 @@ Mục tiêu chính là tạo ra một nguồn tài liệu mở, dễ tiếp cậ
     *   Apps: Memrise, Duolingo, Drops, Quizlet.
     *   Website: Oxford Learner's Dictionaries (có hình ảnh và phát âm).
 *   **Bài tập trắc nghiệm/Tài liệu của bạn:**
-* [ĐỀ LUYỆN TẬP TIẾNG ANH – CHỦ ĐỀ: GREETINGS](https://azota.vn/de-thi/g5os9i)
+* [ĐỀ LUYỆN TẬP TIẾNG ANH – CHỦ ĐỀ: GREETINGS - Đề 1](https://azota.vn/de-thi/3t15fz)
+* [ĐỀ LUYỆN TẬP TIẾNG ANH – CHỦ ĐỀ: GREETINGS - Đề 2](https://azota.vn/de-thi/bdrdat)
 
 #### c. Ngữ pháp (Grammar):
 *   **Nội dung:**
