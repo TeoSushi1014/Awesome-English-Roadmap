@@ -90,7 +90,7 @@ Mục tiêu chính là tạo ra một nguồn tài liệu mở, dễ tiếp cậ
     *   Ghi âm giọng nói và so sánh với người bản xứ.
     *   Luyện tập thường xuyên trước gương.
 *   **Bài tập trắc nghiệm/Tài liệu của bạn:**
-    *   `[Link/Tên file bài tập nhận biết âm IPA của bạn]`
+
 
 #### b. Từ vựng (Vocabulary):
 *   **Nội dung:**
@@ -106,9 +106,7 @@ Mục tiêu chính là tạo ra một nguồn tài liệu mở, dễ tiếp cậ
     *   Apps: Memrise, Duolingo, Drops, Quizlet.
     *   Website: Oxford Learner's Dictionaries (có hình ảnh và phát âm).
 *   **Bài tập trắc nghiệm/Tài liệu của bạn:**
-    *   `[[Link](https://azota.vn/de-thi/g5os9i)/ĐỀ LUYỆN TẬP TIẾNG ANH – CHỦ ĐỀ: GREETINGS]`
-    *   `[Link/Tên file trắc nghiệm từ vựng chủ đề Đồ vật của bạn]`
-    *   `[Link/Tên file bộ flashcards Anki 500 từ cơ bản của bạn]`
+* [ĐỀ LUYỆN TẬP TIẾNG ANH – CHỦ ĐỀ: GREETINGS](https://azota.vn/de-thi/g5os9i)
 
 #### c. Ngữ pháp (Grammar):
 *   **Nội dung:**
