@@ -7,15 +7,13 @@
 Chào mừng bạn đến với **Awesome-English-Roadmap**! Đây là một kế hoạch chi tiết được thiết kế để giúp bạn chinh phục tiếng Anh từ những bước đầu tiên cho đến trình độ nâng cao.
 
 **Người tạo:** [TeoSushi1014](https://github.com/TeoSushi1014)
-**Liên hệ:** [Facebook](https://www.facebook.com/boboiboy.gala.7/) (Nếu muốn)
+**Liên hệ:** [Facebook](https://www.facebook.com/boboiboy.gala.7/)
 
-## 🎯 Giới thiệu Dự án
+## 🎯 Giới thiệu dự án
 
 Dự án này cung cấp một lộ trình học tiếng Anh cực kỳ chi tiết, được chia thành các giai đoạn rõ ràng với mục tiêu, nội dung học tập, phương pháp và nguồn tài liệu tham khảo gợi ý cho từng kỹ năng (Ngữ âm, Từ vựng, Ngữ pháp, Nghe, Nói, Đọc, Viết).
 
 Mục tiêu chính là tạo ra một nguồn tài liệu mở, dễ tiếp cận và có thể tùy chỉnh, nơi mọi người có thể tham khảo và đóng góp để cùng nhau tiến bộ.
-
-**Đặc biệt:** Lộ trình này được thiết kế để bạn có thể dễ dàng tích hợp các bài tập trắc nghiệm hoặc tài liệu cá nhân của mình vào từng phần học.
 
 ## 🚀 Bắt đầu như thế nào? (How to Use This Roadmap)
 
@@ -24,22 +22,9 @@ Mục tiêu chính là tạo ra một nguồn tài liệu mở, dễ tiếp cậ
 3.  **Đọc kỹ mục tiêu và nội dung:** Hiểu rõ những gì bạn cần đạt được và học trong từng giai đoạn.
 4.  **Tham khảo các nguồn tài liệu gợi ý:** Khám phá các sách, website, ứng dụng được đề xuất. Chọn những nguồn phù hợp với phong cách học của bạn.
 5.  **Tích hợp tài liệu cá nhân:** Quan trọng nhất, hãy thêm các link bài tập trắc nghiệm, ghi chú, hoặc tài liệu bạn tự sưu tầm vào các mục tương ứng.
-    *   Ví dụ: `*   [Link trắc nghiệm Thì Hiện tại đơn của bạn]`
 6.  **Lên kế hoạch học tập cá nhân:** Dựa trên lộ trình này, hãy xây dựng một lịch trình học tập cụ thể hàng ngày/hàng tuần.
 7.  **Theo dõi tiến độ và điều chỉnh:** Thường xuyên đánh giá sự tiến bộ của bản thân và điều chỉnh kế hoạch nếu cần.
 8.  **Kiên trì và thực hành đều đặn!**
-
-## 🛠️ Tùy chỉnh và Tích hợp Trắc nghiệm
-
-Đây là một lộ trình "sống". Bạn được khuyến khích:
-
-*   **Fork repository này:** Tạo một bản sao của dự án này về tài khoản GitHub của bạn.
-*   **Chỉnh sửa trực tiếp file `README.md`:**
-    *   Thêm vào các link trắc nghiệm mà bạn tự tạo hoặc sưu tầm. Ví dụ, bạn có thể tạo các file Markdown chứa câu hỏi trắc nghiệm trong repository của mình và link tới chúng.
-    *   Bổ sung các nguồn tài liệu, ứng dụng, hoặc phương pháp học tập mà bạn thấy hiệu quả.
-    *   Thêm ghi chú cá nhân, mục tiêu phụ hoặc các dự án nhỏ liên quan đến việc học.
-*   **Tạo các file tài liệu riêng:** Nếu bạn có nhiều tài liệu (ví dụ: danh sách từ vựng, bài tập ngữ pháp), hãy tạo các file `.md` hoặc thư mục riêng trong project và link từ `README.md` chính tới chúng để giữ cho lộ trình gọn gàng.
-    *   Ví dụ: Tạo thư mục `GiaiDoanKhoiDong/BaiTapTracNghiem/` và chứa các file trắc nghiệm ở đó.
 
 ## 📖 Mục lục Chi tiết Lộ Trình
 
@@ -121,7 +106,7 @@ Mục tiêu chính là tạo ra một nguồn tài liệu mở, dễ tiếp cậ
     *   Apps: Memrise, Duolingo, Drops, Quizlet.
     *   Website: Oxford Learner's Dictionaries (có hình ảnh và phát âm).
 *   **Bài tập trắc nghiệm/Tài liệu của bạn:**
-    *   `[Link/Tên file trắc nghiệm từ vựng chủ đề Gia đình của bạn]`
+    *   `[[Link](https://azota.vn/de-thi/g5os9i)/ĐỀ LUYỆN TẬP TIẾNG ANH – CHỦ ĐỀ: GREETINGS]`
     *   `[Link/Tên file trắc nghiệm từ vựng chủ đề Đồ vật của bạn]`
     *   `[Link/Tên file bộ flashcards Anki 500 từ cơ bản của bạn]`
 
